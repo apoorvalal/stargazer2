@@ -1,10 +1,10 @@
-Package: stargazer2 (fork of stargazer with less insane defaults)
+Package: stargazer2 
 Type: Package
-Title: Well-Formatted Regression and Summary Statistics Tables
+Title: Well-Formatted Regression and Summary Statistics Tables forked from stargazer
 Version: 5.2.3
 Date: 2020-06-09
-Author: Marek Hlavac
-Maintainer: Apoorva Lal
+Author: Marek Hlavac <mhlavac@alumni.princeton.edu>
+Maintainer: Apoorva Lal <apoorval@stanford.edu>
 Description: Produces LaTeX code, HTML/CSS code and ASCII text for well-formatted tables that hold
     regression analysis results from several models side-by-side, as well as summary
     statistics.
