@@ -1,7 +1,7 @@
 stargazer <-
-function(..., type = "text", title="", style="default", summary=NULL, out=NULL, out.header=FALSE,
+function(..., type = "text", title="", style="apsr", summary=NULL, out=NULL, out.header=FALSE,
          column.labels=NULL, column.separate = NULL, covariate.labels=NULL, dep.var.caption=NULL,
-         dep.var.labels=NULL, dep.var.labels.include=TRUE, align=FALSE, coef=NULL, se=NULL, t=NULL,
+         dep.var.labels=FALSE, dep.var.labels.include=TRUE, align=FALSE, coef=NULL, se=NULL, t=NULL,
          p=NULL,  t.auto=TRUE, p.auto=TRUE, ci=FALSE, ci.custom=NULL, ci.level=0.95, ci.separator=NULL,
          add.lines=NULL, apply.coef=NULL, apply.se=NULL, apply.t=NULL, apply.p=NULL, apply.ci=NULL,
          colnames = NULL, column.sep.width = "5pt",
